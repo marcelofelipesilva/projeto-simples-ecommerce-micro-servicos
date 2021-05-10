@@ -1,4 +1,4 @@
-Projeto simples de e-commerce com micro servicos
+Projeto simples de e-commerce com micro serviços
 
 Tecnologias usadas:
 -html
